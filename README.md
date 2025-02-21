@@ -44,5 +44,5 @@ By the end of this lab, you will have a deeper understanding of how to leverage 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
